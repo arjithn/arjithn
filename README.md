@@ -8,8 +8,11 @@ Minimalistic, reactive developer with a humane approach. A modern & functional i
   ![Work Status][status-image]
   ![Location][location-image]
   ![Language][lang-image]
-> A Thinker who tinkers
+  
+> A Thinker, who tinkers
+
 ## 🍄  Key Features
+
 ## 🏁 Quick Start
 ```bash
 # Can Replace "Firefox" with ur fav Browser
@@ -36,6 +39,7 @@ $ echo "Hey there👋 ! So, what did you crash-n-burn 🔥 this week? 😛"
 <a href="https://discord.gg/arjithn#1169" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="arjithn#1169" height="30" width="40" /></a>
 
 ## ⛳  Roadmap
+
 ## 💁🏾 Contributing
 
 ## 📊 Stats Section

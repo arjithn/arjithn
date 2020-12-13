@@ -11,6 +11,20 @@ Minimalistic, reactive developer with a humane approach. A modern & functional i
 
 ## 🍄  Key Features
 ## Quick Start
+```bash
+# Can Replace "Firefox" with ur fav Browser
+$ open -a "Firefox" https://twitter.com/arjithn
+
+# Navigate to Direct Message ✉️ opt
+$ cd twitter-dms@arjithn
+
+# Send a ping!
+$ echo "Hey there👋 ! So, what did you crash-n-burn 🔥 this week? 😛"
+
+# Returns: response + common ground discussions + fun convo
+
+```
+
 
 ## Roadmap
 ## Contributing

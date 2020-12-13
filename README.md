@@ -8,9 +8,9 @@ Minimalistic, reactive developer with a humane approach. A modern & functional i
   ![Work Status][status-image]
   ![Location][location-image]
   ![Language][lang-image]
-
+> A Thinker who tinkers
 ## 🍄  Key Features
-## Quick Start
+## 🏁 Quick Start
 ```bash
 # Can Replace "Firefox" with ur fav Browser
 $ open -a "Firefox" https://twitter.com/arjithn
@@ -22,14 +22,23 @@ $ cd twitter-dms@arjithn
 $ echo "Hey there👋 ! So, what did you crash-n-burn 🔥 this week? 😛"
 
 # Returns: response + common ground discussions + fun convo
-
 ```
+## Other Usages
+<p align="center">
+<a href="https://github.com/arjithn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="arjithn" height="30" width="40" /></a>
+<a href="https://twitter.com/arjithn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arjithn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arjithn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arjithn" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/arjithn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="arjithn" height="30" width="40" /></a>
+<a href="mailto:arjith496@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="arjithn496@gmail.com" height="30" width="40" /></a>
+<a href="https://instagram.com/arjith.nat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arjith.nat" height="30" width="40" /></a>
+<a href="https://dribbble.com/arjithn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="arjithn" height="30" width="40" /></a>
+<a href="https://dev.to/arjithn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="arjithn" height="30" width="40" /></a>
+<a href="https://discord.gg/arjithn#1169" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="arjithn#1169" height="30" width="40" /></a>
 
+## ⛳  Roadmap
+## 💁🏾 Contributing
 
-## Roadmap
-## Contributing
-
-## Stats section
+## 📊 Stats Section
 
 ## License
  [![Public Domain Mark](https://licensebuttons.net/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/) 

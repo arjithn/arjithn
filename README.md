@@ -1,4 +1,4 @@
-# ⚡ Arjith Natarajan 
+# ⚡ Arjith Natarajan
 
 Minimalistic, reactive developer with a humane approach. A modern & functional implementation for both server and client sides.
 
@@ -13,7 +13,16 @@ Minimalistic, reactive developer with a humane approach. A modern & functional i
 
 ## 🍄  Key Features
 
+- Handles heavy workloads *(Churns out code solutions)*
+- Builds enticing UI; Cross Platform; *support for React, React Native ⚛️*
+- Micro interactions with students & fellow devs
+- Extensively uses Search Engines
+- Built in Dark Mode capability *(Dark as in the "Dark Knight")*
+- Fully-Responsive *(as in Responds back quickly😜 )*
+- Emoji support 🎉   *(in chat replies, code comments)*
+
 ## 🏁 Quick Start
+
 ```bash
 # Can Replace "Firefox" with ur fav Browser
 $ open -a "Firefox" https://twitter.com/arjithn
@@ -26,7 +35,9 @@ $ echo "Hey there👋 ! So, what did you crash-n-burn 🔥 this week? 😛"
 
 # Returns: response + common ground discussions + fun convo
 ```
+
 ## Other Usages
+
 <p align="center">
 <a href="https://github.com/arjithn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="arjithn" height="30" width="40" /></a>
 <a href="https://twitter.com/arjithn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arjithn" height="30" width="40" /></a>
@@ -40,13 +51,27 @@ $ echo "Hey there👋 ! So, what did you crash-n-burn 🔥 this week? 😛"
 
 ## ⛳  Roadmap
 
+- Learn Ruby on Rails , python 🐍 
+- Add Docs abt my journey, by writing articles, blogs
+- Come out of 🐚  and make more friends.
+- i18n Support : es, ja, fr, hi 💬 
+- Shed unwanted files. 📦 Reduce build size 😂 
+
 ## 💁🏾 Contributing
+
+- Hit me up with your crazy ideas; 🤣  we'll probably end up buying a domain together 🔥 
+- Help me achieve milestones in roadmap, through thoughts, suggestions etc.
+- Give Feedback on my work, projects. Always welcome.
+- Critics can open issues and point out my mistakes
+- Enlighten me with better coding patterns and structures
+- Open to advice on contribution to OS, Remote work
 
 ## 📊 Stats Section
 
   [![My Github Stats](https://github-readme-stats.vercel.app/api?username=arjithn&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/arjithn)
 
 ## License
+
  [![Public Domain Mark](https://licensebuttons.net/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/) 
    To the extent possible under law, [Arjith Natarajan](#) has waived all copyright and related or neighboring rights to this work.
 

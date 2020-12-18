@@ -51,7 +51,7 @@ $ echo "Hey there👋 ! So, what did you crash-n-burn 🔥 this week? 😛"
 
 ## ⛳  Roadmap
 
-- Learn Ruby on Rails , python 🐍 
+- Learn Next.js, GraphQL, ror , python 🐍 
 - Add Docs abt my journey, by writing articles, blogs
 - Come out of 🐚  and make more friends.
 - i18n Support : es, ja, fr, hi 💬 
